@@ -17,6 +17,7 @@
 		074B935025E182CE00C30C61 /* Wise_PlannerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074B934F25E182CE00C30C61 /* Wise_PlannerUITests.swift */; };
 		074B936125E187B900C30C61 /* StarterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074B936025E187B900C30C61 /* StarterViewController.swift */; };
 		075326BB25E2C7E200511F99 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 075326BA25E2C7E200511F99 /* .gitignore */; };
+		075326C325E2CD0F00511F99 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075326C225E2CD0F00511F99 /* Extensions.swift */; };
 		075437C425E2974700D59493 /* PlansViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075437C325E2974700D59493 /* PlansViewController.swift */; };
 		075437C925E2994D00D59493 /* PlansTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075437C825E2994D00D59493 /* PlansTableViewCell.swift */; };
 /* End PBXBuildFile section */
@@ -55,6 +56,7 @@
 		074B935125E182CE00C30C61 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		074B936025E187B900C30C61 /* StarterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarterViewController.swift; sourceTree = "<group>"; };
 		075326BA25E2C7E200511F99 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		075326C225E2CD0F00511F99 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		075437C325E2974700D59493 /* PlansViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlansViewController.swift; sourceTree = "<group>"; };
 		075437C825E2994D00D59493 /* PlansTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlansTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -117,6 +119,7 @@
 				074B933825E182CE00C30C61 /* LaunchScreen.storyboard */,
 				074B933B25E182CE00C30C61 /* Info.plist */,
 				074B933325E182CD00C30C61 /* Wise_Planner.xcdatamodeld */,
+				075326C225E2CD0F00511F99 /* Extensions.swift */,
 			);
 			path = "Wise Planner";
 			sourceTree = "<group>";
@@ -293,6 +296,7 @@
 				074B932D25E182CD00C30C61 /* SceneDelegate.swift in Sources */,
 				075437C425E2974700D59493 /* PlansViewController.swift in Sources */,
 				075437C925E2994D00D59493 /* PlansTableViewCell.swift in Sources */,
+				075326C325E2CD0F00511F99 /* Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
